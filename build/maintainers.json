@@ -1119,9 +1119,6 @@
   "/bookfere/:category": [
     "OdinZhang"
   ],
-  "/bookwalker/search/:filter?": [
-    "nczitzk"
-  ],
   "/booru/mmda/tags/:tags?": [
     "N78Wy"
   ],
