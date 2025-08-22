@@ -297,9 +297,6 @@
     "monnerHenster",
     "nczitzk"
   ],
-  "/aa1/60s/:category?": [
-    "nczitzk"
-  ],
   "/aamacau/:category?/:id?": [],
   "/abc/:category{.+}?": [
     "nczitzk",
@@ -3878,9 +3875,6 @@
   ],
   "/hubu/zhxy/:category{.+}?": [
     "nczitzk"
-  ],
-  "/hudsonrivertrading/blog/:section?": [
-    "johan456789"
   ],
   "/huggingface/blog-community/:sort?": [
     "yuguorui"
