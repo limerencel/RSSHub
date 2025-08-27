@@ -834,9 +834,6 @@
   "/bestblogs/feeds/:category?": [
     "zhenlohuang"
   ],
-  "/bestofjs/rankings/monthly": [
-    "ztkuaikuai"
-  ],
   "/bfl/announcements": [
     "thirteenkai"
   ],
